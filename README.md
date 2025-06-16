@@ -78,8 +78,8 @@ A real-time, distributed fall detection system using multiple RGB cameras, neura
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/andreavisi1/distributed-fall-detection.git
-cd distributed-fall-detection
+git clone https://github.com/andreavisi1/Eyes_on_Falls_with_YOLO.git
+cd Eyes_on_Falls_with_YOLO
 ```
 
 ### 2. Install Dependencies
