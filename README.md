@@ -16,19 +16,6 @@ A real-time, distributed fall detection system using multiple RGB cameras, neura
 - **Anti-bias mechanisms**: Prevents positional and temporal biases
 - **Edge computing**: Runs entirely on Raspberry Pi devices
 
-## 📋 Table of Contents
-
-- [Architecture](#architecture)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Consensus Algorithms](#consensus-algorithms)
-- [Performance](#performance)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Academic References](#academic-references)
-
 ## 🏗️ Architecture
 
 ```
